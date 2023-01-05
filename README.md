@@ -1,6 +1,7 @@
 # Sinogram-Analysis
 
 by Diana Tovmasian da.tovmasian@gmail.com
+
 Copyright © 2023, Lomonosov Moscow State University
 
 ## Description
