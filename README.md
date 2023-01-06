@@ -2,7 +2,7 @@
 
 by Diana Tovmasian da.tovmasian@gmail.com
 
-Copyright © 2023, Lomonosov Moscow State University
+Copyright © 2018, Lomonosov Moscow State University
 
 ## Description
 "Sinogram-Analysis" is a GUI based standalone application written in MATLAB® that allows to process data from the TomoTherapy exit detectors for plans verification, checking the work of the MLC, as well as to monitor changes in the dose delivery from fraction to fraction due to changes in patients anatomy.
